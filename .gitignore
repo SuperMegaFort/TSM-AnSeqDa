@@ -1,1 +1,4 @@
 .DS_Store
+.venv
+
+data/Data_project_AnSeqData
